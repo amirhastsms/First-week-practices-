@@ -1,2 +1,2 @@
 # First-week-practices-
-you give information to code and it will run
+I am trying to learn C# and here I gonna upload my files
